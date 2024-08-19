@@ -1,0 +1,40 @@
+.Intro {
+    font-size: 60px;
+}
+
+.one {
+    font-size: 18px;
+}
+
+.def {
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.list {
+    font-size: medium;
+}
+
+.blank {
+    white-space: nowrap;
+}
+
+
+
+.two {
+    font-size: 18px;
+}
+
+.three {
+    font-size: 18px;
+}
+
+.steps {
+    padding-top: 10px;
+}
+
+.last {
+    font-size: 18px;
+    padding-top: 20px;
+}
