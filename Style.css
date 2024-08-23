@@ -35,6 +35,10 @@
     padding-top: 10px;
 }
 
+element style {
+    list-style-type: decimal;
+}
+
 .approach {
     padding-left: 20px;
     padding-top: 10px;
