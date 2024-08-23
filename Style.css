@@ -31,11 +31,14 @@
 }
 
 .steps {
-    padding-top: 10px;
     padding-left: 5px;
+    padding-top: 10px;
 }
 
-
+.approach {
+    padding-left: 10px;
+    padding-top: 10px;
+}
 
 .last {
     font-size: 18px;
