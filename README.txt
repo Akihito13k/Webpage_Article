@@ -4,4 +4,4 @@ This is an article about learning methods.
 
 URLs:
 If you enter "https://akihito13k.github.io/Webpage_Article" or "https://akihito13k.github.io/Webpage_Article/index.html", you can see "index.html".
-To see "index2.html", you can enter "https://akihito13k.github.io/Webpage_Article/index2.html".
+To see "index2.html", please enter "https://akihito13k.github.io/Webpage_Article/index2.html".
